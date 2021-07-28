@@ -1,6 +1,6 @@
 # bangunmotor
 
-A new Flutter project.
+demo of bangunmotor app made with flutter
 
 ## Getting Started
 
