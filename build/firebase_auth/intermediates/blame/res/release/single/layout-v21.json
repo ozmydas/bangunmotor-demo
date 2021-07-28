@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/run/media/hisyam/DATA/PROJECT/flutter_dev/bangunmotor/build/firebase_auth/intermediates/res/merged/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/hisyam/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/0fac5ff6420f41fce41c121124b6af0d/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/run/media/hisyam/DATA/PROJECT/flutter_dev/bangunmotor/build/firebase_auth/intermediates/res/merged/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/hisyam/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/0fac5ff6420f41fce41c121124b6af0d/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/run/media/hisyam/DATA/PROJECT/flutter_dev/bangunmotor/build/firebase_auth/intermediates/res/merged/release/layout-v21/notification_action.xml",
+        "source": "/home/hisyam/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/0fac5ff6420f41fce41c121124b6af0d/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/run/media/hisyam/DATA/PROJECT/flutter_dev/bangunmotor/build/firebase_auth/intermediates/res/merged/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/hisyam/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/0fac5ff6420f41fce41c121124b6af0d/res/layout-v21/notification_template_icon_group.xml"
+    }
+]

@@ -1,0 +1,4 @@
+#Thu Feb 20 00:07:22 WIB 2020
+base.0=/run/media/hisyam/DATA/PROJECT/flutter_dev/bangunmotor/build/app/intermediates/transforms/dexMerger/release/0
+path.0=classes.dex
+renamed.0=classes.dex

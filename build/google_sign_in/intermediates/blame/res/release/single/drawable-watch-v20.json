@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/run/media/hisyam/DATA/PROJECT/flutter_dev/bangunmotor/build/google_sign_in/intermediates/res/merged/release/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml",
+        "source": "/home/hisyam/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-16.0.1.aar/33de470d2a24a9ac6106d8ca54c1e02b/res/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "/run/media/hisyam/DATA/PROJECT/flutter_dev/bangunmotor/build/google_sign_in/intermediates/res/merged/release/drawable-watch-v20/common_google_signin_btn_text_disabled.xml",
+        "source": "/home/hisyam/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-16.0.1.aar/33de470d2a24a9ac6106d8ca54c1e02b/res/drawable-watch-v20/common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "/run/media/hisyam/DATA/PROJECT/flutter_dev/bangunmotor/build/google_sign_in/intermediates/res/merged/release/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml",
+        "source": "/home/hisyam/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-16.0.1.aar/33de470d2a24a9ac6106d8ca54c1e02b/res/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml"
+    }
+]

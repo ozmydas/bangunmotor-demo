@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/run/media/hisyam/DATA/PROJECT/flutter_dev/bangunmotor/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-xxhdpi-v4/values-xxhdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/home/hisyam/.gradle/caches/transforms-1/files-1.1/jetified-core-1.9.13.aar/f09043cac9f25ec1a2e7c73cea66e7b0/res/values-xxhdpi-v4/values-xxhdpi-v4.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,114",
+                        "endColumns": "58,55",
+                        "endOffsets": "109,165"
+                    }
+                }
+            ]
+        }
+    ]
+}

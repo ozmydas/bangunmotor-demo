@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/run/media/hisyam/DATA/PROJECT/flutter_dev/bangunmotor/build/flutter_secure_storage/intermediates/res/merged/release/drawable/notification_bg_low.xml",
+        "source": "/home/hisyam/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/0fac5ff6420f41fce41c121124b6af0d/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/run/media/hisyam/DATA/PROJECT/flutter_dev/bangunmotor/build/flutter_secure_storage/intermediates/res/merged/release/drawable/notification_icon_background.xml",
+        "source": "/home/hisyam/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/0fac5ff6420f41fce41c121124b6af0d/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/run/media/hisyam/DATA/PROJECT/flutter_dev/bangunmotor/build/flutter_secure_storage/intermediates/res/merged/release/drawable/notification_tile_bg.xml",
+        "source": "/home/hisyam/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/0fac5ff6420f41fce41c121124b6af0d/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/run/media/hisyam/DATA/PROJECT/flutter_dev/bangunmotor/build/flutter_secure_storage/intermediates/res/merged/release/drawable/notification_bg.xml",
+        "source": "/home/hisyam/.gradle/caches/transforms-1/files-1.1/core-1.0.0-rc01.aar/0fac5ff6420f41fce41c121124b6af0d/res/drawable/notification_bg.xml"
+    }
+]
